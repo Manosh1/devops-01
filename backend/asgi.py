@@ -2,11 +2,13 @@
 ASGI config for backend project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
-
+Aayush Raj
 For more information on this file, see
 https://docs.djangoproject.com/en/5.2/howto/deployment/asgi/
 """
-"Aayush"
+
+
+
 import os
 
 from django.core.asgi import get_asgi_application
