@@ -4,10 +4,6 @@ on:
     push:
         branches:
             - main
-<<<<<<< HEAD
-=======
-            
->>>>>>> 21e270fad8d8207251357351e48290e971917ecd
     workflow_dispatch: {}
 
 concurrency:
